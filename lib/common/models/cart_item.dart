@@ -1,4 +1,4 @@
-import 'package:flutter_state_learning/common/product.dart';
+import 'package:flutter_state_learning/common/models/product.dart';
 
 class CartItem {
   final int count;

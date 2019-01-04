@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:collection';
 import 'dart:ui' show Color;
 
-import 'package:flutter_state_learning/common/product.dart';
+import 'package:flutter_state_learning/common/models/product.dart';
 
 final Catalog catalog = fetchCatalogSync();
 

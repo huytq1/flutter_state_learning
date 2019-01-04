@@ -1,7 +1,7 @@
 import 'dart:collection';
 import 'dart:math';
-import 'package:flutter_state_learning/common/cart_item.dart';
-import 'package:flutter_state_learning/common/product.dart';
+import 'package:flutter_state_learning/common/models/cart_item.dart';
+import 'package:flutter_state_learning/common/models/product.dart';
 
 class Cart {
   final List<CartItem> _items = <CartItem>[];
